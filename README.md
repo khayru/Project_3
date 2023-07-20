@@ -1,2 +1,3 @@
 # Project_3
-sattic file been add
+static file has been added
+car1.ipynb has been updated 
